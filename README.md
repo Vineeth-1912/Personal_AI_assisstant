@@ -1,5 +1,3 @@
-Got it ✅ — you want a **README** text for your AI Voice Assistant project using Groq API, LLaMA 3.3–70B, Streamlit, and real-time voice I/O.  
-Here’s a professional yet engaging `README.md` you can directly add to your GitHub repo.  
 
 ***
 
@@ -77,7 +75,8 @@ streamlit run app.py
 ***
 
 ## 🖼 Demo Screenshot  
-*(Optional — Add your own here)*
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/ec68bae3-73cb-4025-b74b-df55e68ab496" />
+
 
 ***
 
@@ -107,7 +106,3 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) and [pyttsx3](https://pypi.org/project/pyttsx3/) for enabling the voice interface  
 
 ***
-
-If you want, I can also **add an ASCII architecture diagram** and **sample `.env` file structure** in the README to make it look more polished.  
-
-Do you want me to add that enhancement so your GitHub page stands out?
